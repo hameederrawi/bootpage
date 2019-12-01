@@ -1,0 +1,29 @@
+body {
+
+    font-family: 'Roboto', sans-serif;
+    background: url("../images/12.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+
+.alert-container {
+
+}
+
+.callout-container{
+
+    height: 100vh;
+
+}
+
+
+.quotes-container{
+
+}
+
+.features-container {
+
+
+}
